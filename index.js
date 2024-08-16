@@ -1,0 +1,1 @@
+window alert(este pc se autodestruira); 
